@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/anubhav2706">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+%7C+System+Design+Enthusiast;☁️+Cloud+%7C+DevOps+%7C+Game+Development+Explorer;Always+learning+and+building+new+things!" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+%7C+System+Design+Enthusiast;☁️+Cloud+%7C+DevOps+%7C+Game+Dev+Explorer;✨+Always+learning+and+building+cool+stuff!" />
   </a>
 </p>  
 
@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-008080?style=for-the-badge&logo=socket.io&logoColor=white"/>
 
   <!-- Databases -->
   <br/>
@@ -87,25 +88,33 @@
 
 ## 🎨 Featured Projects  
 
-✨ Here are some projects I’ve created & worked on:  
+✨ Here are some projects I’ve built & worked on:  
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🛍️ Stylique – Backend Services** | REST APIs, auth, payments, order processing, admin controls. Built for **scalability & security**. | Node.js, Express, MongoDB, AWS |
-| **💃 Stylique – Frontend Platform** | Responsive ecommerce frontend with **fashion-first UI/UX, real-time interactivity & animations**. | React.js, Next.js, TailwindCSS |
-| **📌 Scrum Board (Jira/Trello Clone)** | Task management with **drag & drop**, real-time updates, team workflows. | React.js, Node.js |
-| **🌐 Portfolio** | My personal portfolio with **smooth animations & modern design**. | Next.js, TailwindCSS |
+| 🚀 Project | 📖 Description | 🛠️ Tech Stack |
+|------------|----------------|---------------|
+| **🛍️ Stylique – Backend** | REST APIs, payments, authentication, order processing, admin controls. Built for **scalability & security**. | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) |
+| **💃 Stylique – Frontend** | Responsive ecommerce frontend with **fashion-first UI/UX, animations, and real-time features**. | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) |
+| **📌 Scrum Board (Jira/Trello Clone)** | Task management with **drag & drop**, real-time updates, team workflows. | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
+| **🌐 Portfolio** | My personal portfolio with **smooth animations & creative design**. | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) |
 
 ---
 
 ## 🌱 Currently Exploring  
-- Advanced **System Design** (caching, queues, distributed systems)  
-- **DevOps & Automation** (Docker, Kubernetes, CI/CD pipelines)  
-- **Unity + AR/VR** immersive applications  
+- 🚀 Advanced **System Design** (scalability, caching, queues, microservices)  
+- ☁️ **DevOps & Automation** (CI/CD, Kubernetes, Docker, IaC)  
+- 🎮 **Unity & AR/VR** immersive apps  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats & Animations  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhav2706&theme=radical&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anubhav2706&theme=radical&hide_border=true" height="180" />
@@ -113,17 +122,16 @@
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhav2706&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav2706&layout=compact&theme=radical" height="180"/>
-</p>  
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/anubhav2706/anubhav2706/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhav2706&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav2706&layout=compact&theme=tokyonight" height="180"/>
 </p>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anubhavranjan&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anubhav2706&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>  
 
 ---
