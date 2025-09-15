@@ -1,40 +1,46 @@
-# 👋 Hi, I'm Anubhav Ranjan  
-
-🚀 **Full Stack Developer | MERN | System Design Enthusiast**  
-Passionate about building **scalable backend systems**, **modern frontend applications**, and solving **real-world engineering challenges**.  
-Currently working at **Zone Delivery Services (Dubai)** on logistics & delivery platforms, while also building side projects like **Stylique (ecommerce)**, **Scrum board**, and my **animated portfolio**.  
+<!-- Header with typing animation -->
+<h1 align="center">👋 Hi, I'm Anubhav Ranjan</h1>
+<h3 align="center">
+🚀 Full Stack Developer | MERN | System Design Enthusiast  
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Backends;Crafting+Modern+Frontends;Solving+Real-World+Engineering+Challenges" alt="Typing SVG">
+</p>
 
 ---
 
 ## 🛠️ Skills & Technologies  
 
-### 💻 Programming & Scripting  
-- JavaScript (ES6+), TypeScript, Node.js, Python (basics)  
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚙️ Backend Development  
-- Node.js, Express.js, REST APIs, WebSockets  
-- Authentication (JWT, OAuth2), Role-based access  
-- Payment Gateway Integration (Stripe, PayPal, Razorpay)  
-- System Design (multi-pickup/dropoff, wallet/payout flows, notification services)  
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 
-### 🎨 Frontend Development  
-- React.js, Next.js, Angular  
-- TailwindCSS, shadcn/ui, Bootstrap  
-- Responsive UI/UX, animations, carousels, typewriter effects  
-- State management (Context API, basics of Redux/Zustand)  
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Databases  
-- MongoDB (Mongoose, Aggregation, Transactions)  
-- MySQL (queries, relational design)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & DevOps  
-- AWS (EC2, S3, Route53, IAM, SSL with Certbot)  
-- GitHub Actions (CI/CD), Linux server setup  
-- Docker (learning), Kubernetes (learning)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🧪 Testing & Tools  
-- Playwright (UI testing), Postman, Jest (basics)  
-- Git, GitHub, Jira, Agile/Scrum practices  
+### 🧪 Tools & Testing  
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -44,67 +50,69 @@ Currently working at **Zone Delivery Services (Dubai)** on logistics & delivery 
 **Full Stack Developer | Remote**  
 - Architected **wallet & payout systems** with settlement restrictions (VAT/Salik).  
 - Built **multi-pickup/multi-dropoff order logic** with custom pricing.  
-- Developed **rider notification service**: assign by ID, map-based, or random market.  
-- Migrated **50,000+ images** between S3 buckets with automated Node.js scripts.  
-- Implemented **real-time order tracking, geofencing, and dynamic pricing systems**.  
-- Deployed applications on **AWS (EC2, S3, SSL, Route53)**.  
+- Developed **rider notification service** (by ID, map, or random market).  
+- Migrated **50,000+ images** between S3 buckets using automated Node.js scripts.  
+- Implemented **real-time tracking, geofencing, and dynamic pricing**.  
+- Deployed apps on **AWS (EC2, S3, SSL, Route53)**.  
 
 ### 🔹 Veative Labs (2021 – 2023)  
 **Software Developer | EdTech & AR/VR**  
 - Developed portals: **Learning Hub, Live Counseling, Study Abroad, Accounts, Admin**.  
 - Integrated **payment gateways, Zoom APIs, and real-time sockets**.  
 - Built **career counseling workflows & AR/VR study solutions**.  
-- Enhanced system performance, improved **UX for thousands of users**.  
+- Enhanced performance & **UX for thousands of users**.  
 
 ---
 
 ## 🎨 Featured Projects  
 
-1. **🛍️ Stylique – Backend Services**  
-   RESTful APIs powering the Stylique fashion ecommerce platform.  
-   - Authentication, payments, order processing, and admin controls.  
-   - Built for **scalability, security, and performance**.  
+📌 **Stylique – Backend Services**  
+REST APIs for authentication, payments, orders, admin controls — built for **scalability & security**.  
 
-2. **💃 Stylique – Frontend Platform**  
-   Modern, responsive frontend for Stylique.  
-   - Fashion-first **UI/UX**, real-time interaction, scalable architecture.  
+📌 **Stylique – Frontend Platform**  
+Responsive, modern ecommerce frontend with **fashion-first UI/UX** and real-time features.  
 
-3. **📌 Scrum Board (Jira/Trello Clone)**  
-   Task management board with drag-and-drop, team collaboration, and tracking.  
+📌 **Scrum Board (Jira/Trello Clone)**  
+Task board with **drag-and-drop**, team collaboration, and workflow management.  
 
-4. **🌐 Portfolio (Next.js + Animations)**  
-   Developer portfolio with **smooth animations and modern design**.  
+📌 **Portfolio (Next.js + Animations)**  
+Personal portfolio with **modern design, animations, and smooth interactions**.  
 
 ---
 
 ## 🌱 Currently Exploring  
-- Advanced **System Design**: caching, message queues, distributed systems.  
-- **DevOps & Automation**: Docker, Kubernetes, GitHub Actions pipelines.  
-- **Frontend Optimization**: performance tuning, advanced state management.  
+- Advanced **System Design** (caching, queues, distributed systems)  
+- **DevOps & Automation** (Docker, Kubernetes, CI/CD pipelines)  
+- **Frontend Optimization** (state management, performance tuning)  
 
 ---
 
 ## 📊 GitHub Stats & Achievements  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anubhavranjan&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=anubhavranjan&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" height="180"/>
-</p>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anubhav2706&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anubhav2706&theme=radical&no-frame=true&row=1&column=6" height="170"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhav2706&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav2706&layout=compact&theme=radical" alt="Top languages" height="180"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhav2706&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav2706&layout=compact&theme=radical" height="170"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anubhavranjan&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>  
-
-
-## 🤝 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/anubhav-s-618a9a201/)  
-- 🌐 [Email](arsri2706@gmail.com)  
+  <img src="https://komarev.com/ghpvc/?username=anubhav2706&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
-⭐️ *“Code, Design, and Deliver with impact.”*
+## 🤝 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anubhav-s-618a9a201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:arsri2706@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/anubhav2706"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ *“Code, Design, and Deliver with Impact.”*  
