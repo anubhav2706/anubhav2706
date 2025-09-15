@@ -1,147 +1,414 @@
-<!-- Animated header -->
-<h1 align="center">👋 Hi, I'm <a href="https://github.com/anubhav2706">Anubhav Ranjan Srivastav</a></h1>  
+<div align="center">
 
+<!-- Animated ASCII Art Header -->
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║    ░█████╗░███╗░░██╗██╗░░░██╗██████╗░██╗░░██╗░█████╗░██╗░░░██╗                ║
+║    ██╔══██╗████╗░██║██║░░░██║██╔══██╗██║░░██║██╔══██╗██║░░░██║                ║
+║    ███████║██╔██╗██║██║░░░██║██████╦╝███████║███████║╚██╗░██╔╝                ║
+║    ██╔══██║██║╚████║██║░░░██║██╔══██╗██╔══██║██╔══██║░╚████╔╝░                ║
+║    ██║░░██║██║░╚███║╚██████╔╝██████╦╝██║░░██║██║░░██║░░╚██╔╝░░                ║
+║    ╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░                ║
+║                                                                              ║
+║              🚀 FULL STACK ARCHITECT • 🌟 CODE CRAFTSMAN 🌟                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+</div>
+
+<!-- Animated Typing Effect -->
 <p align="center">
-  <a href="https://github.com/anubhav2706">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+%7C+System+Design+Enthusiast;☁️+Cloud+%7C+DevOps+%7C+Game+Dev+Explorer;✨+Always+learning+and+building+cool+stuff!" />
-  </a>
-</p>  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <!-- Programming -->
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"/>
-
-  <!-- Frontend -->
-  <br/>
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-  <!-- Backend -->
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-008080?style=for-the-badge&logo=socket.io&logoColor=white"/>
-
-  <!-- Databases -->
-  <br/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-
-  <!-- Cloud & DevOps -->
-  <br/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-  <!-- Tools -->
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  
-  <!-- Game Dev -->
-  <br/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-</p>  
-
----
-
-## 💼 Professional Experience  
-
-### 🔹 Zone Delivery Services, Dubai (2023 – Present)  
-**Full Stack Developer | Remote**  
-- Architected **wallet & payout systems** with settlement restrictions (VAT/Salik).  
-- Built **multi-pickup/multi-dropoff order logic** with custom pricing.  
-- Developed **rider notification service**: assign by ID, map-based, or random market.  
-- Migrated **50,000+ images** between S3 buckets with automated Node.js scripts.  
-- Implemented **real-time order tracking, geofencing, and dynamic pricing systems**.  
-- Deployed applications on **AWS (EC2, S3, SSL, Route53)**.  
-
-### 🔹 Veative Labs (2021 – 2023)  
-**Software Developer | EdTech & AR/VR**  
-- Developed portals: **Learning Hub, Live Counseling, Study Abroad, Accounts, Admin**.  
-- Integrated **payment gateways, Zoom APIs, and real-time sockets**.  
-- Built **career counseling workflows & AR/VR study solutions**.  
-- Enhanced system performance, improved **UX for thousands of users**.  
-
----
-
-## 🎨 Featured Projects  
-
-✨ Here are some projects I’ve built & worked on:  
-
-| 🚀 Project | 📖 Description | 🛠️ Tech Stack |
-|------------|----------------|---------------|
-| **🛍️ Stylique – Backend** | REST APIs, payments, authentication, order processing, admin controls. Built for **scalability & security**. | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) |
-| **💃 Stylique – Frontend** | Responsive ecommerce frontend with **fashion-first UI/UX, animations, and real-time features**. | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) |
-| **📌 Scrum Board (Jira/Trello Clone)** | Task management with **drag & drop**, real-time updates, team workflows. | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
-| **🌐 Portfolio** | My personal portfolio with **smooth animations & creative design**. | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) |
-
----
-
-## 🌱 Currently Exploring  
-- 🚀 Advanced **System Design** (scalability, caching, queues, microservices)  
-- ☁️ **DevOps & Automation** (CI/CD, Kubernetes, Docker, IaC)  
-- 🎮 **Unity & AR/VR** immersive apps  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=%F0%9F%8C%8C+Digital+Innovator+%7C+Problem+Solver;%E2%9A%A1+MERN+Stack+Virtuoso+%7C+Cloud+Native;%F0%9F%8E%AE+AR%2FVR+Pioneer+%7C+System+Architect;%F0%9F%92%8E+Crafting+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Animations  
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhav2706&theme=radical&hide_border=true" />
-</p>
+## 🎭 **THE ARCHITECT BEHIND THE CODE**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anubhav2706&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/?username=anubhav2706&theme=radical&no-frame=true&row=1&column=6" height="180" />
-</p>  
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhav2706&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav2706&layout=compact&theme=tokyonight" height="180"/>
-</p>  
+```javascript
+const anubhav = {
+    fullName: "Anubhav Ranjan Srivastav",
+    title: "Full Stack Magician ✨",
+    location: "🌍 Building Global Solutions",
+    
+    philosophy: {
+        code: "Clean, Scalable, Beautiful",
+        design: "User-First, Performance-Driven",
+        innovation: "Tomorrow's Solutions Today"
+    },
+    
+    currentStatus: "🚀 Architecting the Future",
+    coffee: "☕ Unlimited Supply Required",
+    
+    getRandomFact: () => {
+        const facts = [
+            "🎯 Deployed 50K+ images across clouds",
+            "⚡ Built real-time systems for thousands",
+            "🛡️ Security-first development approach",
+            "🎮 AR/VR immersive experience creator"
+        ];
+        return facts[Math.floor(Math.random() * facts.length)];
+    }
+};
+```
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
+</td>
+<td width="50%">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anubhav2706&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+**🎯 Quick Stats:**
+- 💼 **3+ Years** of Professional Excellence
+- 🌟 **50K+ Users** Impacted
+- ⚡ **Real-time Systems** Expert
+- 🔒 **Security-First** Mindset
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🤝 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/anubhav-s-618a9a201/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:arsri2706@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>  
+<div align="center">
+
+## 🛠️ **ARSENAL OF TECHNOLOGIES**
+
+<!-- Tech Stack with Cool Animations -->
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,java,cs,python,html,css,tailwind,bootstrap,sass" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,azure,docker,kubernetes,git,github,figma,unity" />
+
+### 🔥 **Specialized Arsenal**
+
+<table align="center">
+<tr>
+<th>🎨 Frontend Magic</th>
+<th>⚙️ Backend Power</th>
+<th>☁️ Cloud & DevOps</th>
+<th>📊 Data & Analytics</th>
+</tr>
+<tr>
+<td>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+</td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</td>
+<td>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</td>
+<td>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-⭐️ *“Code, Design, and Deliver with impact.”*  
+<div align="center">
+
+## 💼 **PROFESSIONAL JOURNEY**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+### 🏢 **Zone Delivery Services, Dubai** `2023 - Present`
+> **Full Stack Architect | Remote**
+
+<details>
+<summary>🔍 <b>Click to explore my impact</b></summary>
+
+```bash
+🎯 ACHIEVEMENTS UNLOCKED:
+├── 💳 Architected wallet & payout systems with complex settlement logic
+├── 🚚 Built multi-pickup/dropoff order engine with dynamic pricing
+├── 📱 Developed intelligent rider notification service (ID/Map/Random)
+├── ☁️ Migrated 50,000+ images across S3 buckets with zero downtime
+├── 🗺️ Implemented real-time tracking with geofencing capabilities
+└── 🚀 Deployed scalable solutions on AWS (EC2, S3, Route53, SSL)
+
+💡 TECHNOLOGIES: Node.js • React • AWS • MongoDB • Real-time Systems
+```
+
+</details>
+
+### 🎓 **Veative Labs** `2021 - 2023`
+> **Software Developer | EdTech & AR/VR**
+
+<details>
+<summary>🔍 <b>Click to explore my contributions</b></summary>
+
+```bash
+🎯 SOLUTIONS DELIVERED:
+├── 🌐 Learning Hub Portal (Thousands of Active Users)
+├── 💬 Live Counseling Platform with Zoom Integration
+├── 🎓 Study Abroad Portal with Payment Gateway Integration
+├── 📊 Advanced Admin & Accounts Management System
+├── 🎮 AR/VR Educational Solutions
+└── ⚡ Real-time Socket-based Communication Systems
+
+💡 TECHNOLOGIES: MERN Stack • AR/VR • Payment Gateways • Real-time APIs
+```
+
+</details>
+
+---
+
+<div align="center">
+
+## 🎨 **MASTERPIECE PROJECTS**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<table>
+<thead>
+<tr>
+<th>🚀 Project</th>
+<th>📖 Description</th>
+<th>🛠️ Tech Arsenal</th>
+<th>🔗 Links</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>🛍️ Stylique</b><br/><sub>E-commerce Platform</sub></td>
+<td>
+Full-stack fashion marketplace with:<br/>
+• Secure payment processing<br/>
+• Real-time inventory management<br/>
+• Advanced search & filtering<br/>
+• Responsive design system
+</td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/>
+</td>
+<td>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td><b>📋 Scrum Board</b><br/><sub>Project Management</sub></td>
+<td>
+Jira/Trello clone featuring:<br/>
+• Drag & drop functionality<br/>
+• Real-time collaboration<br/>
+• Team workflow automation<br/>
+• Advanced task tracking
+</td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white&style=flat-square"/>
+</td>
+<td>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td><b>🌟 Portfolio</b><br/><sub>Personal Brand</sub></td>
+<td>
+Creative portfolio website with:<br/>
+• Smooth animations<br/>
+• Interactive 3D elements<br/>
+• Modern UI/UX design<br/>
+• Performance optimized
+</td>
+<td>
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=flat-square"/>
+</td>
+<td>
+<a href="#"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<div align="center">
+
+## 🌱 **CURRENT EXPLORATIONS**
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Currently mastering the art of...***
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🏗️ **System Design**
+```mermaid
+graph TD
+    A[🧠 Advanced Patterns] --> B[⚡ Scalability]
+    A --> C[💾 Caching Strategies]
+    A --> D[🔄 Microservices]
+    A --> E[📊 Load Balancing]
+```
+
+</td>
+<td width="33%" align="center">
+
+### ☁️ **DevOps Mastery**
+```mermaid
+graph TD
+    A[🚀 CI/CD Pipelines] --> B[🐳 Containerization]
+    A --> C[☸️ Orchestration]
+    A --> D[📈 Monitoring]
+    A --> E[🛡️ Security]
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🎮 **AR/VR Innovation**
+```mermaid
+graph TD
+    A[🥽 Unity Development] --> B[🌐 WebXR]
+    A --> C[🎨 3D Modeling]
+    A --> D[🧪 Immersive UX]
+    A --> E[📱 Mobile AR]
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **GITHUB ANALYTICS DASHBOARD**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhav2706&custom_title=Anubhav's%20Contribution%20Graph&bg_color=0D1117&color=7c3aed&line=00D9FF&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anubhav2706&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav2706&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=7c3aed&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav2706&layout=donut&theme=tokyonight&hide_border=true&custom_title=Language%20Distribution&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=anubhav2706&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+
+<br/>
+
+<details>
+<summary>🏆 <b>Achievement Unlocked: View More Stats</b></summary>
+
+<br/>
+
+<img src="https://metrics.lecoq.io/anubhav2706?template=classic&config.timezone=Asia%2FCalcutta" alt="Detailed Metrics" />
+
+</details>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 **LET'S CREATE SOMETHING AMAZING TOGETHER**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="50" />
+
+<p>
+<a href="https://www.linkedin.com/in/anubhav-s-618a9a201/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
+</a>
+<a href="mailto:arsri2706@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/anubhav2706">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
+
+<!-- Visitor Counter with Style -->
+<img src="https://komarev.com/ghpvc/?username=anubhav2706&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
+
+### 💭 **Random Dev Wisdom**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║  ✨ "The best way to predict the future is to create it." - Peter Drucker    ║
+║                                                                               ║
+║        🚀 Code • 🎨 Design • 📈 Scale • 🌟 Deliver • 🔄 Repeat               ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
