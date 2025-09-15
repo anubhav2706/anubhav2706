@@ -1,5 +1,5 @@
 <!-- Animated header -->
-<h1 align="center">👋 Hi, I'm <a href="https://github.com/anubhav2706">Anubhav Ranjan</a></h1>  
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/anubhav2706">Anubhav Ranjan Srivastav</a></h1>  
 
 <p align="center">
   <a href="https://github.com/anubhav2706">
