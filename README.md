@@ -108,8 +108,8 @@
 ## 📊 GitHub Stats & Animations  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anubhavranjan&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/?username=anubhavranjan&theme=radical&no-frame=true&row=1&column=6" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anubhav2706&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anubhav2706&theme=radical&no-frame=true&row=1&column=6" height="180" />
 </p>  
 
 <p align="center">
