@@ -1,49 +1,67 @@
-# 👋 Hi, I'm Anubhav Ranjan  
+<!-- Animated header -->
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/anubhav2706">Anubhav Ranjan</a></h1>  
 
-🚀 **Full Stack Developer | MERN | System Design Enthusiast | Game Development Explorer**  
-Passionate about building **scalable backend systems**, **modern frontend applications**, and exploring **AR/VR + game dev**.  
-Currently working at **Zone Delivery Services (Dubai)** on logistics & delivery platforms, while also creating **side projects** like **Stylique (ecommerce)**, **Scrum board**, and my **animated portfolio**.  
+<p align="center">
+  <a href="https://github.com/anubhav2706">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+%7C+System+Design+Enthusiast;☁️+Cloud+%7C+DevOps+%7C+Game+Development+Explorer;Always+learning+and+building+new+things!" />
+  </a>
+</p>  
 
 ---
 
-## 🛠️ Skills & Technologies  
+## 🛠️ Tech Stack  
 
-### 💻 Programming & Scripting  
-- JavaScript (ES6+), TypeScript, Python (basics), Java, C#, C  
+<p align="center">
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"/>
 
-### ⚙️ Backend Development  
-- Node.js, Express.js, NestJS  
-- REST APIs, WebSockets, GraphQL (basics)  
-- Authentication (JWT, OAuth2, SSO)  
-- Payment Gateway Integration (Stripe, Razorpay, PayPal)  
-- File Storage & CDN (AWS S3, CloudFront)  
-- System Design (multi-pickup/dropoff, wallet/payout, geofencing, notification services)  
-- Microservices (basics), API security, performance optimization  
+  <!-- Frontend -->
+  <br/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-### 🎨 Frontend Development  
-- React.js, Next.js, Angular, Vue.js  
-- TailwindCSS, shadcn/ui, Bootstrap, Material UI  
-- Responsive UI/UX, animations, carousels, typewriter effects  
-- State management (Context API, Redux, Zustand, Pinia for Vue)  
+  <!-- Backend -->
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 
-### 🗄️ Databases  
-- MongoDB (Mongoose, Aggregation, Transactions)  
-- MySQL, PostgreSQL, MariaDB  
-- DynamoDB, Redis (caching & sessions)  
+  <!-- Databases -->
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
 
-### ☁️ Cloud & DevOps  
-- AWS (EC2, S3, Route53, IAM, SSL with Certbot, CloudFront)  
-- Microsoft Azure (VMs, Blob storage, Functions, App Services)  
-- GitHub Actions (CI/CD), Linux server setup  
-- Docker (learning), Kubernetes (learning)  
+  <!-- Cloud & DevOps -->
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-### 🧪 Testing & Tools  
-- Playwright, Postman, Jest (basics)  
-- Git, GitHub, Jira, Agile/Scrum practices  
-- VS Code, WebStorm, Figma (UI/UX design), Swagger/OpenAPI  
-
-### 🎮 Game Development  
-- Unity (C# scripting, basic AR/VR integrations)  
+  <!-- Tools -->
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  
+  <!-- Game Dev -->
+  <br/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>  
 
 ---
 
@@ -69,49 +87,39 @@ Currently working at **Zone Delivery Services (Dubai)** on logistics & delivery 
 
 ## 🎨 Featured Projects  
 
-1. **🛍️ Stylique – Backend Services**  
-   Robust backend powering the Stylique fashion ecommerce platform.  
-   - **Authentication, payments, order processing, admin controls**.  
-   - Optimized for **scalability, high traffic, and security-first design**.  
-   - Built with **Node.js, Express, MongoDB, and AWS cloud services**.  
+✨ Here are some projects I’ve created & worked on:  
 
-2. **💃 Stylique – Frontend Platform**  
-   Fashion-first, modern frontend for Stylique.  
-   - Fully responsive and **optimized for all devices**.  
-   - Rich **UI/UX with real-time interactivity**, animations, and smooth navigation.  
-   - Developed using **React.js, Next.js, TailwindCSS, shadcn/ui**.  
-
-3. **📌 Scrum Board (Jira/Trello Clone)**  
-   A collaborative task management system.  
-   - **Drag-and-drop tasks**, team assignments, workflow tracking.  
-   - Built to enhance **team collaboration** with real-time sync.  
-   - Developed using **React + Node.js** with a clean, minimal UI.  
-
-4. **🌐 Portfolio (Next.js + Animations)**  
-   Personal portfolio showcasing **projects, experience, and animations**.  
-   - Designed for a **smooth and modern browsing experience**.  
-   - Includes **custom animations, typewriter effects, and responsiveness**.  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🛍️ Stylique – Backend Services** | REST APIs, auth, payments, order processing, admin controls. Built for **scalability & security**. | Node.js, Express, MongoDB, AWS |
+| **💃 Stylique – Frontend Platform** | Responsive ecommerce frontend with **fashion-first UI/UX, real-time interactivity & animations**. | React.js, Next.js, TailwindCSS |
+| **📌 Scrum Board (Jira/Trello Clone)** | Task management with **drag & drop**, real-time updates, team workflows. | React.js, Node.js |
+| **🌐 Portfolio** | My personal portfolio with **smooth animations & modern design**. | Next.js, TailwindCSS |
 
 ---
 
 ## 🌱 Currently Exploring  
-- Advanced **System Design** (caching, message queues, distributed systems)  
-- **DevOps & Automation** (Docker, Kubernetes, GitHub Actions pipelines)  
-- **Frontend Performance Optimization** & advanced state management  
-- **Unity + AR/VR** for immersive applications  
+- Advanced **System Design** (caching, queues, distributed systems)  
+- **DevOps & Automation** (Docker, Kubernetes, CI/CD pipelines)  
+- **Unity + AR/VR** immersive applications  
 
 ---
 
-## 📊 GitHub Stats & Achievements  
+## 📊 GitHub Stats & Animations  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anubhavranjan&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=anubhavranjan&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anubhavranjan&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anubhavranjan&theme=radical&no-frame=true&row=1&column=6" height="180" />
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhav2706&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav2706&layout=compact&theme=radical" alt="Top languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhav2706&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav2706&layout=compact&theme=radical" height="180"/>
+</p>  
+
+<!-- Snake animation -->
+<p align="center">
+  <img src="https://github.com/anubhav2706/anubhav2706/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>  
 
 <p align="center">
@@ -121,8 +129,10 @@ Currently working at **Zone Delivery Services (Dubai)** on logistics & delivery 
 ---
 
 ## 🤝 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/anubhav-s-618a9a201/)  
-- 📧 [Email](mailto:arsri2706@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/anubhav-s-618a9a201/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:arsri2706@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>  
 
 ---
 
