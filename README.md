@@ -22,6 +22,7 @@
 <!-- Animated Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=%F0%9F%8C%8C+Digital+Innovator+%7C+Problem+Solver;%E2%9A%A1+MERN+Stack+Virtuoso+%7C+Cloud+Native;%F0%9F%8E%AE+AR%2FVR+Pioneer+%7C+System+Architect;%F0%9F%92%8E+Crafting+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+   <br>
 </p>
 
 ---
