@@ -68,7 +68,7 @@ const anubhav = {
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
 **🎯 Quick Stats:**
-- 💼 **3+ Years** of Professional Excellence
+- 💼 **5+ Years** of Professional Excellence
 - 🌟 **50K+ Users** Impacted
 - ⚡ **Real-time Systems** Expert
 - 🔒 **Security-First** Mindset
