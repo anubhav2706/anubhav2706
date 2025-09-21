@@ -249,7 +249,6 @@ A comprehensive e-commerce platform built for the fashion industry with modern U
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Project Management" width="100%"/>
 
 **🎯 User Impact:**
-- 👥 **500+** teams using daily
 - ⚡ **60%** faster task completion
 - 📊 **Real-time** collaboration
 - 🔄 **Seamless** workflow automation
